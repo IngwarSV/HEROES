@@ -54,7 +54,7 @@ int main() {
     wer1->attack(*pr1);
     pr1->castSpell(wer1);
     pr1->castSpell(wer1);
-    // v1->attack(*s1);
+    v1->attack(*s1);
     
     std::cout << "------------------" << std::endl;
     std::cout << *s1 << std::endl;
