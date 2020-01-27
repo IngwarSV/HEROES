@@ -66,6 +66,7 @@ int main() {
     std::cout << *nec1 << std::endl;
     std::cout << *d1 << std::endl;
     std::cout << "------------------" << std::endl;
+    
     delete(s1);
     delete(r1);
     delete(b1);
